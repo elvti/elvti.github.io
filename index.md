@@ -1,4 +1,13 @@
-![One of my research projects](/fluorobenzene_m_TS_optw.png)
+![Fluorobenzene meta TS](/fluorobenzene_m_TS_optw.png)
+One of my current research projects.
+
+```
+#include <iostream>
+int main(){
+  std::cout<<"hello world!";
+  return 0;
+}
+```
 
 ## Week 1 Reflection
 
