@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Week 1 Reflection
 
-You can use the [editor on GitHub](https://github.com/elvti/elvti.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Prior to reading “Technology and Ideology: The Case of the Telegraph” by James W. Carey, I hadn’t thought about the significance of such an archaic communication technology. After all, it was just another primitive form of communication, just like pagers or mail. While the former had existed shortly before my time, thus I still experienced its legacy, and the latter is still commonly used today, the telegraph was something I never had a complete grasp on aside from watching old movies and cartoons. Never would I have known that the telegraph had such profound impacts on those living during that time. It had opened up “the first great industrial monopoly”, an entirely new industry, and changed the way we thought about social and business interactions (Carey 2). However, upon examining the changes telegraphs brought to the 1800s society, I noticed many aspects that resonate with the 21st century surge of modern technologies, which until now I had thought of as unique.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Carey argued that while the ideology behind the telegraph may seem like an entirely new one, it was built on foundations already existing in our society (2). In some sense, the telegraph is very similar to the Internet. Just like there is no other alternatives to compare our Internet to (Dourish, there was nothing quite like the telegraph when it was invented. For us modern humans, it is difficult to imagine the world without the internet, and its expansion and domination of our lives makes it hard for us to perceive what more can be done, and what greater technologies will follow. 
 
-### Markdown
+Also like the Internet, the telegraph created a whole new industry. For the telegraph’s case, it was connecting previously separated markets and monetizing the electrical communications industry. It laid groundworks for many new forms of communication to follow, such as the telephone. It created the 1800s equivalent of e-marketing and allowed the flow of commodities to transcend the flow of time. The Internet, too, created the foundation for many other forms of technology and industry, such as artificial intelligence, e-marketing, search engines and online databases, and the development of new hardware that implements these technologies. Furthermore, if the telegraph allowed detachment of communication and transportation, the Internet then allowed detachment of reality and virtuality. With more and more information being available in the “cloud”, we are once again redefining information transfer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+While the Internet boasts its freedom and empowerment of the individual, the same concerns of the telegraph still exists today. Back in the day, the monopoly and centralized set-up of telegraph transmission led to a “selective control and transmission of information” (Carey 10). The business monopoly eventually turned into a spiritual one. However, that concern in the case of the Internet has taken form in government censorship and media partisanship. Despite its decentralized scheme, the flow of information is not fully at will. A handful of entities hold the power to determine what the majority of users sees. In a spiritual sense, the power is still centralized, even if the sender and receiver do not realize it.
 
-```markdown
-Syntax highlighted code block
+How does the history of the telegraph connect to modern technologies? From all of these similarities, it is easy to ask whether the Internet would become just like the telegraph, a groundbreaking invention of its time that is soon replaced. After all, just like how it was hard to predict the birth of the Internet during an era of telephones, it would be just as hard for us modern humans engrossed in the Internet to predict its downfall. However, as much as I can perceive, I think that it “the Cycle” of communications technology, described by Tim Wu in his book _The Master Switch_ (6), will end here at the Internet. Unlike the telegraph, which was created on privately owned hardware and controls to be monopolized, industrialized, and monetized, the Internet was created to be a common platform that can foster even more technological advancements. So then, more precisely, I think that the Internet transcends the Cycle, and is simply not part of it.
 
-# Header 1
-## Header 2
-### Header 3
+# Works Cited
 
-- Bulleted
-- List
+Carey, James W. “Technology and Ideology: The Case of the Telegraph.” _Prospects_, vol. 8, 
+1983, pp. 303–325., doi:10.1017/s0361233300003793.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elvti/elvti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wu, Tim. _The Master Switch: the Rise and Fall of Information Empires_. Atlantic Books, 2012.
