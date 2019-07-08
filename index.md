@@ -27,3 +27,7 @@ Carey, James W. “Technology and Ideology: The Case of the Telegraph.” _Prosp
   1983, pp. 303–325., doi:10.1017/s0361233300003793.
 
 Wu, Tim. _The Master Switch: the Rise and Fall of Information Empires_. Atlantic Books, 2012.
+
+## Week 2 Reflection - WIP
+
+For a long time, I found the word “hypertext” very hard to grasp. Since I grew acquainted with the World Wide Web at a very young age, the concept of hypertext became vague as it not only integrated into my browsing experience, but also my everyday mode of thinking and perceiving knowledge. However, even that is not a completely correct statement, as the concept of hypertext, hyperlink, and hypermedia arose from the nonlinear nature of our society and how our brains process new knowledge. Furthermore, the World Wide Web was not the only proposal of information body out there, and the original concept of hypertext came with many different variants of nonlinear information structures. So, why the “current” hypertext as we know it? And why the World Wide Web? Based on my readings, experience, and personal preferences, I will give a speculation for the success of discrete hypertexts, consisting of linked chunks of texts, and subsequently the World Wide Web, which was built on such forms of hypertexts.
