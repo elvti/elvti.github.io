@@ -28,6 +28,40 @@ Carey, James W. “Technology and Ideology: The Case of the Telegraph.” _Prosp
 
 Wu, Tim. _The Master Switch: the Rise and Fall of Information Empires_. Atlantic Books, 2012.
 
-## Week 2 Reflection - WIP
+## Week 2 Reflection
 
-For a long time, I found the word “hypertext” very hard to grasp. Since I grew acquainted with the World Wide Web at a very young age, the concept of hypertext became vague as it not only integrated into my browsing experience, but also my everyday mode of thinking and perceiving knowledge. However, even that is not a completely correct statement, as the concept of hypertext, hyperlink, and hypermedia arose from the nonlinear nature of our society and how our brains process new knowledge. Furthermore, the World Wide Web was not the only proposal of information body out there, and the original concept of hypertext came with many different variants of nonlinear information structures. So, why the “current” hypertext as we know it? And why the World Wide Web? Based on my readings, experience, and personal preferences, I will give a speculation for the success of discrete hypertexts, consisting of linked chunks of texts, and subsequently the World Wide Web, which was built on such forms of hypertexts.
+### --------------WIP--------------
+
+For a long time, I found the word “hypertext” very hard to grasp. Since I grew acquainted with the World Wide Web (WWW) at a very young age, the concept of hypertext became vague as it not only integrated into my browsing experience, but also my everyday mode of thinking and perceiving knowledge. However, even that is not a completely correct statement, as the concept of hypertext, hyperlink, and hypermedia arose from the nonlinear nature of our society and how our brains process new knowledge (the former is briefly explored in Tim Berners-Lee's proposal for the WWW in a corporate setting). Furthermore, the original concept of hypertext came with many different variants of nonlinear information structures. So, why the “current” hypertext as we know it? Based on my readings, experience, and personal preferences, I will give a speculation for the success of discrete hypertexts, which consist of linked chunks of texts.
+
+
+### The article “What Hypertext Is” by Wardrip-Fruin identifies several aspects of hypertexts as well as its distinction with the more general term hypermedia.
+
+* “Connection from one position in a text to another” - Espen Aarseth (qtd. in Wardrip-Fruin 1)
+* A hands-on and intuitive way to interact with information by building associations and knowledge
+* Hypertext is a subcategory of hypermedia, referring to the types of nonlinear media that primarily operate textually.
+
+### Ted Nelson’s “Discrete hypertext” vs. “stretch text” (qtd. in Wardrip-Fruin 2)
+* **Discrete hypertexts** are consolidated chunks that may be related to other chunks in the same body of text
+  * Predominant structure in the WWW as we know it today, as seen in the original proposal for the WWW (Berners-Lee)
+  * Branching, but does not take away the experience of viewing the big picture
+  * Webbed structure more or less resembles how information is organized in our brain - inter-webbed neurons, perception of information, integration and processing center, and response and/or storage, all are associations
+  * Webbed structure also resembles the way social interaction, ideas, and information across a large organization are organized
+  * Nowadays in modern computers where multitasking is allowed, discrete hypertext is much more friendly
+* **Stretch text** is the plain text version of a zoomable “hypermap” (Wardrip-Fruin 2).
+  The closest thing we have to that is a collapsable text, but no lengthening by “minute degrees” (Wardrip-Fruin 2)
+  * No branching, just zooming
+  * Not good for reader: bad for viewing the big picture because one could very easily lose track of the big picture by zooming in on one subtopic
+  * It is completely serial, not parallel. Though the human brain essentially processes serially, we can switch tasks very easily. This does not allow efficient “multitasking”
+  * The amount of clicking needed to get to the right level of detail is unknown
+  * For learning, it may be useful for certain subjects where axioms and key points are laid out this way. It does create a local multidimensionality. However, stretch text is not as flexible as discrete hyperlink. Discrete hyperlink could be designed in a way to mimic seriality, but stretch text cannot mimic a webbed structure. There is clarity and order in this way of organization.
+  * However, although I personally prefer to organize my new knowledge serially and expandable for my own studying, such as having 1, 1.1, 1.2, and 2, 2.1, etc., like a lot of textbooks, there is a limit to how much further expansion I can handle when taking in completely new information
+  * Not friendly for the writer either because it is often not easy to judge how much detail to include under one expandable topic. Also an uncertainty in the level of detail that will actually be read.
+
+### Works Cited
+
+Berners-Lee, Tim. “Information Management: A Proposal.” _The Original Proposal of the WWW, HTMLized_,     
+  www.w3.org/History/1989/proposal.html.
+
+Wardrip-Fruin, Noah. “What Hypertext Is.” _Proceedings of the Fifteenth ACM Conference on Hypertext & 
+  Hypermedia - HYPERTEXT 04_, Aug. 2004, doi:10.1145/1012807.1012844.
