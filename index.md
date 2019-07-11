@@ -1,8 +1,3 @@
-![Fluorobenzene meta TS](/fluorobenzene_m_TS_optw.png)
-```
-```
-One of my current research projects.
-
 ```
 #include <iostream>
 int main(){
@@ -10,6 +5,7 @@ int main(){
   return 0;
 }
 ```
+## [A link to my self portrait](https://elvti.github.io/self.portrait)
 
 ## Week 1 Reflection
 
