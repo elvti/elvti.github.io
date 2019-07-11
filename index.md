@@ -46,3 +46,5 @@ Berners-Lee, Tim. “Information Management: A Proposal.” _The Original Propos
 
 Wardrip-Fruin, Noah. “What Hypertext Is.” _Proceedings of the Fifteenth ACM Conference on Hypertext & 
   Hypermedia - HYPERTEXT 04_, Aug. 2004, doi:10.1145/1012807.1012844.
+
+## Week 3 Reflection
