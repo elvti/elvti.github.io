@@ -5,7 +5,7 @@ int main(){
   return 0;
 }
 ```
-## [A link to my self portrait](https://elvti.github.io/self.portrait)
+### [A link to my self portrait](https://elvti.github.io/self.portrait)
 
 ## Week 1 Reflection
 
