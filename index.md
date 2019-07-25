@@ -84,3 +84,23 @@ Brooker, Charlie. “Black Mirror.” _Black Mirror_, season 2, episode 4, Chann
 Carey, James W. “Technology and Ideology: The Case of the Telegraph.” _Prospects_, vol. 8, 1983, pp. 303–325., doi:10.1017/s0361233300003793.
 
 Zuboff, Shoshana, speech on the interdisciplinary conference of the “Forum Privatheit” in Munich on 11 and 12 October 2018 with the topic “The Future of Data Economics”.
+
+## Week 5 Reflection
+
+In my opinion, the concept of “crowdworkers”, just like Ubers and Amazon independent deliverers, first framed itself as a flexible side-job for busy and underpaid working class or student who want to earn a bit of extra cash but don’t want the commitment and workload of an entirely new job. It was perfect for those working on shifts, whose schedules are not set in stone. However, at the same time, these easy tasks with low skill requirements became an attractive target for those without a job. Soon, some people realized that it could become profitable to engage in this sort of crowdsourcing as a full-time job. In a more general way, people and/or companies can now break down larger tasks into smaller and independent tasks, post their piecework online, and wait for someone on the other end to accept and do it, at a much lower cost than hiring an actual worker.
+
+Turning to crowdsourcing for easy tasks allows workers from anywhere to accept a job, essentially expanding the job market to national and global scope. It is transcending the need to interview and hire someone for a permanent job because only one job is required. Yet, I was quite slow to accept this new form of employment when I first found out about it, because it meant as a consumer that there is no guarantee of quality. There is no way to know who is going to pick up your order and what qualifications they have. However, Mary L. Gray’s article “Op-Ed: Your job is about to get ‘taskified’” made me realize a much bigger underlying problem. However, there are many disadvantages to the worker and society as a whole also. 
+
+First of all, the “crowdworkers” are essentially working at reduced pay per hour for convenience and flexibility in working at home. Though I do not know about the actual cost comparison, that has to be the case because otherwise, the company would hire an actual worker. This means yet another way for large corporations to take advantage of cheap labour in third world countries, and much more convenient.
+
+Second of all, even in third world countries, there is unequal access to these jobs, because they require computers and internet. Thus, not only does crowd work exploit third world countries for labour, they also expand class division in those countries.
+
+Thirdly, workers are not guaranteed to get the next job. Not only are they at risk and subjected to market demand variations at real time, they are not legally protected as actual workers. There is no healthcare, retirement plan, unemployment insurance, or even a contract. The user agreement in whatever platform used to exchange the labour becomes the contract, and any earnings are subjected to the platform’s viability, the corporation’s satisfaction, any illegal and unusual activities, and trust. These platforms are simply not suited for full-time crowdworkers. 
+
+Fourthly, since international boundaries still exist, the global expansion of labour market presents conflicts of interests, and often will result in the worker’s rights being protected by neither country’s laws, and depends on a customer service representative’s subjective decision. Also, suppose a US corporation starts massively employing crowdworkers from India. US citizens may not be too happy about that, because the money is not going to helping out local unemployment, but another country’s unemployment. 
+
+Lastly, as crowdworkers on the internet, everyone has the same worth, regardless of technical training and field experience. As companies start taskifying their jobs, more and more trained and experienced full time workers will lose their jobs to inexperienced, uneducated, and possibly unqualified workers. This may render training and developed skillsets useless in the job market for some, and is against educational values in our society.
+
+### Works Cited
+
+Gray, Mary L. “Op-Ed: Your Job Is about to Get 'Taskified'.” Los Angeles Times, _Los Angeles Times_, 8 Jan. 2016, www.latimes.com/opinion/op-ed/la-oe-0110-digital-turk-work-20160110-story.html.
