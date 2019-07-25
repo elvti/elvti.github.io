@@ -8,15 +8,13 @@ int main(){
 ### [A link to my self portrait](https://elvti.github.io/self.portrait)
 
 # List of reflections:
-- [Week 1 Reflection](#-week-1-reflection)
-- [Week 2 Reflection](##-week-2-reflection)
-- [Week 3 Reflection](##-week-3-reflection)
-- [Week 4 Reflection](##-week-4-reflection)
-- [Week 5 Reflection](##-week-5-reflection)
+- [Week 1 Reflection](#week-1-reflection)
+- [Week 2 Reflection](#week-2-reflection)
+- [Week 3 Reflection](#week-3-reflection)
+- [Week 4 Reflection](#week-4-reflection)
+- [Week 5 Reflection](#week-5-reflection)
 
-# Week 1 Reflection
-
-## Week 1 Reflection
+## Week 1 Reflection <a name="week-1-reflection"></a>
 
   Prior to reading “Technology and Ideology: The Case of the Telegraph” by James W. Carey, I hadn’t thought about the significance of such an archaic communication technology. After all, it was just another primitive form of communication, just like pagers or mail. While the former had existed shortly before my time, thus I still experienced its legacy, and the latter is still commonly used today, the telegraph was something I never had a complete grasp on aside from watching old movies and cartoons. Never would I have known that the telegraph had such profound impacts on those living during that time. It had opened up “the first great industrial monopoly”, an entirely new industry, and changed the way we thought about social and business interactions (Carey 2). However, upon examining the changes telegraphs brought to the 1800s society, I noticed many aspects that resonate with the 21st century surge of modern technologies, which until now I had thought of as unique.
 
@@ -35,7 +33,7 @@ Carey, James W. “Technology and Ideology: The Case of the Telegraph.” _Prosp
 
 Wu, Tim. _The Master Switch: the Rise and Fall of Information Empires_. Atlantic Books, 2012.
 
-## Week 2 Reflection
+## Week 2 Reflection <a name="week-2-reflection"></a>
 
 For a long time, I found the word “hypertext” very hard to grasp. Since I grew acquainted with the World Wide Web (WWW) at a very young age, the concept of hypertext became vague as it not only integrated into my browsing experience, but also my everyday mode of thinking and perceiving knowledge. However, even that is not a completely correct statement, as the concept of hypertext, hyperlink, and hypermedia arose from the nonlinear nature of our society and how our brains process new knowledge (the former is briefly explored in Tim Berners-Lee's proposal for the WWW in a corporate setting). Furthermore, the original concept of hypertext came with many different variants of nonlinear information structures. So, why the “current” hypertext as we know it? Based on my readings, experience, and personal preferences, I will give a speculation for the success of discrete hypertexts, which consist of linked chunks of texts.
 
@@ -56,7 +54,7 @@ Berners-Lee, Tim. “Information Management: A Proposal.” _The Original Propos
 Wardrip-Fruin, Noah. “What Hypertext Is.” _Proceedings of the Fifteenth ACM Conference on Hypertext & 
   Hypermedia - HYPERTEXT 04_, Aug. 2004, doi:10.1145/1012807.1012844.
 
-## Week 3 Reflection
+## Week 3 Reflection <a name="week-3-reflection"></a>
 
 For me, creating is a long and painful process. Lots of table flips, face palms, and restless pacing. Most of my creativity spawns from the deepest, darkest times of the night. I resonate with the serenity in such moments, as well as the underlying anticipation of the disorder that arises with dawn. Life is an absurd combination of opposites, and we as human beings seek to extract order from disorder.
 
@@ -70,7 +68,7 @@ Years go by, and I have now settled in my new residence, a new culture. I turned
 
 For the creation of this project, I was inspired by Stranger Things, in which the character El has the ability to go inside someone’s mind and read their stream of thought. If someone were to dig deeper and deeper into my stream of thought, it might look something like this. Enjoy.
 
-## Week 4 Reflection
+## Week 4 Reflection <a name="week-4-reflection"></a>
 
 In the very beginning of this class, we learned about how the invention and monopolization of the early infotech, such as the telegraph, was the first to apply economies of scale to the communications market (Carey 4). Up until then, Ford Motors was the prime example of capitalism and the benefits of mass production.
 
@@ -94,7 +92,7 @@ Carey, James W. “Technology and Ideology: The Case of the Telegraph.” _Prosp
 
 Zuboff, Shoshana, speech on the interdisciplinary conference of the “Forum Privatheit” in Munich on 11 and 12 October 2018 with the topic “The Future of Data Economics”.
 
-## Week 5 Reflection
+## Week 5 Reflection <a name="week-5-reflection"></a>
 
 In my opinion, the concept of “crowdworkers”, just like Ubers and Amazon independent deliverers, first framed itself as a flexible side-job for busy and underpaid working class or student who want to earn a bit of extra cash but don’t want the commitment and workload of an entirely new job. It was perfect for those working on shifts, whose schedules are not set in stone. However, at the same time, these easy tasks with low skill requirements became an attractive target for those without a job. Soon, some people realized that it could become profitable to engage in this sort of crowdsourcing as a full-time job. In a more general way, people and/or companies can now break down larger tasks into smaller and independent tasks, post their piecework online, and wait for someone on the other end to accept and do it, at a much lower cost than hiring an actual worker.
 
