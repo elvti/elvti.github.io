@@ -9,10 +9,10 @@ int main(){
 
 # List of reflections:
 - [Week 1 Reflection](##-week-1-reflection)
-- [Week 2 Reflection](#Week 2 Reflection)
-- [Week 3 Reflection](#Week 3 Reflection)
-- [Week 4 Reflection](#Week 4 Reflection)
-- [Week 5 Reflection](#Week 5 Reflection)
+- [Week 2 Reflection](##-week-2-reflection)
+- [Week 3 Reflection](##-week-3-reflection)
+- [Week 4 Reflection](##-week-4-reflection)
+- [Week 5 Reflection](##-week-5-reflection)
 
 ## Week 1 Reflection
 
