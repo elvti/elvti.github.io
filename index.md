@@ -8,7 +8,7 @@ int main(){
 ### [A link to my self portrait](https://elvti.github.io/self.portrait)
 
 # List of reflections:
-- [Week 1 Reflection](#Week 1 Reflection)
+- [Week 1 Reflection](##-week-1-reflection)
 - [Week 2 Reflection](#Week 2 Reflection)
 - [Week 3 Reflection](#Week 3 Reflection)
 - [Week 4 Reflection](#Week 4 Reflection)
