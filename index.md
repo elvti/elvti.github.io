@@ -7,6 +7,13 @@ int main(){
 ```
 ### [A link to my self portrait](https://elvti.github.io/self.portrait)
 
+# List of reflections:
+- [Week 1 Reflection](#Week 1 Reflection)
+- [Week 2 Reflection](#Week 2 Reflection)
+- [Week 3 Reflection](#Week 3 Reflection)
+- [Week 4 Reflection](#Week 4 Reflection)
+- [Week 5 Reflection](#Week 5 Reflection)
+
 ## Week 1 Reflection
 
   Prior to reading “Technology and Ideology: The Case of the Telegraph” by James W. Carey, I hadn’t thought about the significance of such an archaic communication technology. After all, it was just another primitive form of communication, just like pagers or mail. While the former had existed shortly before my time, thus I still experienced its legacy, and the latter is still commonly used today, the telegraph was something I never had a complete grasp on aside from watching old movies and cartoons. Never would I have known that the telegraph had such profound impacts on those living during that time. It had opened up “the first great industrial monopoly”, an entirely new industry, and changed the way we thought about social and business interactions (Carey 2). However, upon examining the changes telegraphs brought to the 1800s society, I noticed many aspects that resonate with the 21st century surge of modern technologies, which until now I had thought of as unique.
