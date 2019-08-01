@@ -6,6 +6,7 @@ int main(){
 }
 ```
 ### [A link to my self portrait](https://elvti.github.io/self.portrait)
+### [A link to our website archive analysis of Amazon.com](https://elvti.github.io/amazon.wayback)
 
 # List of reflections:
 - [Week 1 Reflection](#week-1-reflection)
